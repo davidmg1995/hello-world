@@ -10,3 +10,5 @@ Making some blablabla on branch1
 Last things to do on first branch
 
 Added a line into origin/master after the 1st commit on the rebase branch
+
+Added a second line into master before merging rebase branch
