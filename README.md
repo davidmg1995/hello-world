@@ -1,7 +1,7 @@
 # hello-world
 #Repo to test pycharm vcs
 #How to use git with pycharm
-Making a change from github
+Making a change from github, I deleted this on rebase branch hahaha
 
 Pull done from Pycharm, pushing again
 
